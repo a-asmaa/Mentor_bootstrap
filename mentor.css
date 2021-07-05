@@ -40,7 +40,7 @@ h6 {color: #444444d9;}
 
 .cardBorder{ border: 1px solid #dee2e6!important; padding: 5px!important; background-color:#5fcf80;}
 
-.footList { color: ##444444d9 !important; }
+.footList { color: #444444d9 !important; }
 .footList:hover { color: #5fcf80 !important; }
 
 h6 {color: #444444d9;}
@@ -61,7 +61,7 @@ h6 {color: #444444d9;}
   width: 100vw;
   height: 100vh;
   background-color: white;
-  background-image: url("328.gif");
+  background-image: url("./328.gif");
   background-repeat: no-repeat;
   background-position: center;
 }
